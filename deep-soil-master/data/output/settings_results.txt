@@ -1,0 +1,10 @@
+Original Flags are: pca flag = True and XGB flag = True.
+Runing the analysis for lambda ...
+Best PCA params are: 
+{'comp': None, 'kernel': 'poly', 'deg': 3, 'gamma': 0.07, 'coef': 1.75}Best result achieved is: 
+['XGB', 0.47650380596690517]
+Best XGB params are: 
+{'colsample_bytree': 1.0, 'gamma': 0.0, 'learning_rate': 0.1, 'max_depth': 4, 'min_child_weight': 7, 'n_estimators': 90, 'reg_alpha': 0.0, 'reg_lambda': 1.0, 'subsample': 0.9}Best result achieved is: 
+0.5226482474604282
+File ../../data/output/test_trans_XGB-CV-True_lambda.csv was created!
+File ../../data/output/train_trans_XGB-CV-True_lambda.csv was created!
